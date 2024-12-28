@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
-<h3 align="center">A passionate Mobile App developer ,I am a passionate and professional mobile app developer with expertise in Java and Kotlin, crafting high-quality, user-friendly Android applications tailored to meet your needs. Additionally, I specialize in full-stack web development, proficient in MERN Stack (MongoDB, Express.js, React, Node.js) and Node.js/Express.js backend solutions. With a focus on clean code, scalability, and performance, I deliver innovative applications that exceed expectations. Whether it's creating dynamic websites, building robust APIs, or developing mobile apps, I am committed to bringing your ideas to life. Let's collaborate to turn your vision into reality!</h3>
+
+## 🌟Passionate Mobile App Developer 🌟  
+I am a dedicated and professional mobile app developer with a focus on crafting high-quality, user-friendly Android applications tailored to meet your needs. My expertise includes:
+
+## 📱 Android Development
+- Proficient in **Java** and **Kotlin** with Android studio
+- Creating scalable and innovative mobile applications
+
+## 💻 Full-Stack Web Development
+- Specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- Building robust and dynamic websites using ReactJS , Laravel .
+
+## ⚙️ Backend Development
+- Expertise in **Node.js** and **Express.js** for creating efficient and scalable APIs
+  
+## 💡 Focus Areas
+- Clean and maintainable code
+- High-performance applications
+- Scalability for growth
+
+## 🚀 Let's Collaborate!
+I'm committed to bringing your ideas to life! Whether it’s developing dynamic websites, building APIs, or creating powerful mobile apps, I’m here to help turn your vision into reality.
+
+---
+
+Feel free to reach out if you'd like to work together, or check out my projects below! 👇
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_prashant82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-am-patil-prashant) 
