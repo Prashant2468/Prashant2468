@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prashant Patil</h1>
 
 ## 🌟Passionate Mobile App Developer 🌟  
-I am a dedicated and professional mobile app developer with a focus on crafting high-quality, user-friendly Android applications tailored to meet your needs. My expertise includes:
+I am a dedicated and professional mobile app developer with a focus on crafting high-quality, user-friendly Android applications tailored to meet your needs.
+Currently, I'm expanding my skills into the Salesforce ecosystem, actively learning Apex, Lightning
+Web Components, and Salesforce automation tools. With a problem-solving mindset and full-stack
+capabilities, I'm excited to contribute to cloud-based CRM solutions and continue growing in the
+Salesforce platform
+My expertise includes:
 
 ## 📱 Android Development
-- Proficient in **Java** and **Kotlin** with Android studio
+- Proficient in **Java** with Android studio
 - Creating scalable and innovative mobile applications
-
-## 💻 Full-Stack Web Development
-- Specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- Building robust and dynamic websites using ReactJS , Laravel .
-
-## ⚙️ Backend Development
-- Expertise in **Node.js** and **Express.js** for creating efficient and scalable APIs
   
+- I have a strong grasp of core Object Oriented Programming (OOP) principles, which I apply to build scalable and maintainable applications.
+
 ## 💡 Focus Areas
 - Clean and maintainable code
 - High-performance applications
